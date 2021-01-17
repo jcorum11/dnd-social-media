@@ -26,9 +26,8 @@ Route::get('/players', function () {
     return view('players');
 });
 
-Route::get('/log/{log}', function ($slug) {
-    
-    return view("log", ["log" => Log::where("slug", $slug)->firstOrFail()]);
+Route::get('/log', function () {
+    return view("log", ["logs" => App\Models\Log::latest()->get()]);
 });
 
 Auth::routes();
