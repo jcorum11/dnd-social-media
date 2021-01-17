@@ -73,8 +73,9 @@ p {
 }
 
 .navbar {
-  background-color: var(--rufous);
-  color: var(--cadet)
+  background-color: var(--permanent-geranium-lake);
+  color: var(--cadet);
+  box-shadow: inset 0px 0px 10px 10px var(--rufous);
 }
 
 .mapDiv1 {

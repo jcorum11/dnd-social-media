@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container">
+<div class="container py-5">
     <div class="row justify-content-center">
         <h1>The Howling Man</h1>
     </div>
