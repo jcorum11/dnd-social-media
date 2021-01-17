@@ -69,12 +69,41 @@ html {
 }
 
 p {
-  margin: 1rem;
+  margin: 2rem;
 }
 
 .navbar {
   background-color: var(--rufous);
   color: var(--cadet)
+}
+
+.mapDiv1 {
+    background-image: url("/images/Sword-Coast-Map.jpg");
+    background-size: cover;
+    height: 60rem;
+    width: 60rem;
+    background-position: center;
+    /* border-radius: 1rem; */
+    border: var(--deep-space-sparkle) 0.5rem outset;
+
+}
+.mapDiv2 {
+    background-image: url("/images/oakhurstMap.png");
+    background-size: cover;
+    height: 60rem;
+    width: 60rem;
+    background-position: center;
+    /* border-radius: 1rem; */
+    border: var(--deep-space-sparkle) 0.5rem outset;
+}
+.mapDiv3 {
+    background-image: url("/images/neverwinterMap.png");
+    background-size: cover;
+    height: 60rem;
+    width: 60rem;
+    background-position: center;
+    /* border-radius: 1rem; */
+    border: var(--deep-space-sparkle) 0.5rem outset;
 }
 
 article,

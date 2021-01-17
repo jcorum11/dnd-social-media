@@ -28,19 +28,19 @@ $mapCurrentStr = "faerun"
     <h2>Sword Coast</h2>
   </div>
   <div class="row justify-content-center">
-    <img src="/images/faerunMap.jpg" alt="map of Faerun">
+    <div class="mapDiv1"></div>
   </div>
   <div class="row justify-content-center">
     <h2>Oakhurst</h2>
   </div>
   <div class="row justify-content-center">
-    <img src="/images/oakhurstMap.png" alt="map of Oakhurst">
+  <div class="mapDiv2"></div>
   </div>
   <div class="row justify-content-center">
     <h2>Neverwinter</h2>
   </div>
   <div class="row justify-content-center">
-    <img src="/images/neverwinterMap.png" alt="map of Neverwinter">
+  <div class="mapDiv3"></div>
   </div>
 </div>
 </div>
