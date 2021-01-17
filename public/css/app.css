@@ -50,6 +50,10 @@
     box-sizing: border-box;
 }
 
+.collapse {
+
+}
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -2073,6 +2077,9 @@ pre code {
     }
     .table-responsive-sm > .table-bordered {
         border: 0;
+    }
+    .navEl {
+        display: block;
     }
 }
 @media (max-width: 767.98px) {
