@@ -25,7 +25,7 @@
     <div id="app">
         <nav class="navbar navbar-expand navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">AlgoRhythmic Development's D&D Hub</a>
+                <a class="navbar-brand" href="/">AlgoRhythmic Development's D&D Hub</a>
                 <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link" aria-current="page" href="/">Home</a>
